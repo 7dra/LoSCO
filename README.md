@@ -1,1 +1,1 @@
-# Diffusion Meets Supervision
+# DP^2-AD
