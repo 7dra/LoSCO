@@ -1,1 +1,1 @@
-# DP^2-AD
+# LoSCO
